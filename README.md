@@ -67,7 +67,7 @@ pip install numpy pandas matplotlib seaborn pandas_ta requests optuna scikit-lea
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/BitSurge.git
+   git clone https://github.com/runciter2078/BitSurge.git
    cd BitSurge
    ```
 
@@ -126,5 +126,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 This project is intended for educational and research purposes only and should not be considered financial advice. Cryptocurrency trading involves significant risk, and you should perform your own research before making any investment decisions.
 ```
-
-
