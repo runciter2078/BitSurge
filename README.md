@@ -1,5 +1,7 @@
 # BitSurge
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 Predicting Bitcoin's short-term movement using advanced technical indicators and ensemble machine learning models.
 
 ## Overview
