@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-PREDICCIÓN DEL MOVIMIENTO DEL BITCOIN - VERSIÓN DEFINITIVA
+PREDICCIÓN DEL MOVIMIENTO DEL BITCOIN
 ============================================================
 Esta implementación integral predice el movimiento del precio de Bitcoin utilizando:
 - Descarga robusta de datos históricos de Binance.
